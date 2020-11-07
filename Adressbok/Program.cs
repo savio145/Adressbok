@@ -15,7 +15,8 @@ namespace Progmetövning1
 
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\Savio\Desktop\adressbok.txt";
+            
+            string filePath = @"C:\Users\Savio\Desktop\adressbok.txt"; //Skriv filePath här 
             string namn;
             string adress;
             string telefon;
